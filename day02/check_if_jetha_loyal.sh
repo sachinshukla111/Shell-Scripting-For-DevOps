@@ -18,7 +18,7 @@ then
 	echo "$1 is loyal"
 else
 	echo "$1 is not loyal"
-fi                                                                         if ka closer fi hai
+fi                                                                         fi is closer of if 
 }
 
 # This is function call
